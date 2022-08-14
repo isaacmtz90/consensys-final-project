@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/truffle-box/drizzle-box#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "dotenv": "^8.2.0",
     "openzeppelin-solidity": "^2.1.1",
     "truffle-hdwallet-provider": "^1.0.17"
